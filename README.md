@@ -1,24 +1,80 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello React-Rails-Backend
 
-Things you may want to cover:
+> A simple web api application that has a backend powered by ruby on rails and exposes it's api to a front end application built with react
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Install Ruby on Rails [click here >>](https://guides.rubyonrails.org/)
+- Linter: [Rubocop](https://rubocop.org/)
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get a local copy up and running follow these simple example steps.
 
-* Database initialization
+### Prerequisites
+```
+  Ruby
+  Ruby on Rails
+  PostgreSQL
+```
+### Setup
+Clone the repository and change the directory to hello-rails-back-end
 
-* How to run the test suite
+``` 
+  $ git clone git@github.com:Felix45/hello-rails-back-end.git
+  $ cd hello-rails-back-end
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+### Install
+Install all project dependencies by running the command below
+ 
+``` 
+  $ bundle install
+```
 
-* Deployment instructions
+### Run the application
+```
+  $ ./bin/dev
+```
 
-* ...
+### Visit the homepage of application
+```
+  $ http://localhost:3000/
+```
+
+### Check linter errors
+``` 
+  $ rubocop .
+```
+
+### Run tests
+``` 
+  $ rspec
+```
+
+### Authors
+
+| 👤 Name | Github | Twitter | LinkedIn |
+|------|--------|---------|----------|
+|Felix Ouma|[@Felix45](https://github.com/Felix45)|[@Felix_Atonoh](https://twitter.com/Felix_Atonoh)|[LinkedIn](https://www.linkedin.com/in/felix-ouma-639766b0/)|
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/felix45/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to [Microverse](https://bit.ly/MicroverseTN) for giving me this project to work on
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.

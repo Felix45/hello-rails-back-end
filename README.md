@@ -4,7 +4,11 @@
 
 > A simple web api application that has a backend powered by ruby on rails and exposes it's api to a front end application built with react
 ## Front-end Repository
-[Click Here >>](https://github.com/Felix45/hello-rails-front-end/pull/1)
+
+| Repository | Pull request |
+|------------|------------|
+|[Repo link >>](https://github.com/Felix45/hello-rails-front-end)|[Pull request Here >>](https://github.com/Felix45/hello-rails-front-end/pull/1)|
+
 ## Built With
 
 - Install Ruby on Rails [click here >>](https://guides.rubyonrails.org/)

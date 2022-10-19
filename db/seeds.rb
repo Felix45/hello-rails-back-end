@@ -11,4 +11,3 @@ Greeting.create(greeting: 'Salut')
 Greeting.create(greeting: 'Bonjour mes amis')
 Greeting.create(greeting: 'Bonjour a tous')
 Greeting.create(greeting: 'Asalaam aleikum')
-
